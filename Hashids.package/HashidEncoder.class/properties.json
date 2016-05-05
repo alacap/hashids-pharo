@@ -1,0 +1,17 @@
+{
+	"category" : "Hashids",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AlanCapewell 3/18/2015 14:48",
+	"instvars" : [
+		"numbers",
+		"numberHashInt",
+		"hash",
+		"lottery" ],
+	"name" : "HashidEncoder",
+	"pools" : [
+		 ],
+	"super" : "HashidHashFunction",
+	"type" : "normal" }

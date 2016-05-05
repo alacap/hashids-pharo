@@ -1,0 +1,16 @@
+{
+	"category" : "Hashids",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AlanCapewell 3/18/2015 14:42",
+	"instvars" : [
+		"salt",
+		"asciiValAccumulator",
+		"index" ],
+	"name" : "HashidSaltShuffler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

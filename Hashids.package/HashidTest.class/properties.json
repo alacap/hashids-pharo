@@ -1,0 +1,14 @@
+{
+	"category" : "Hashids",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AlanCapewell 3/18/2015 14:50",
+	"instvars" : [
+		 ],
+	"name" : "HashidTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

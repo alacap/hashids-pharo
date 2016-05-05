@@ -1,0 +1,16 @@
+{
+	"category" : "Hashids",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AlanCapewell 3/18/2015 14:45",
+	"instvars" : [
+		"ruleSet",
+		"alphabet",
+		"separators" ],
+	"name" : "HashidHashFunction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
