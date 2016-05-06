@@ -2,11 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testDecode" : "AlanCapewell 3/2/2015 15:51",
-		"testHex" : "AlanCapewell 3/17/2015 14:04",
-		"testMultiNumber" : "AlanCapewell 3/2/2015 10:42",
-		"testPadding" : "AlanCapewell 3/13/2015 15:35",
-		"testRandom" : "AlanCapewell 3/17/2015 16:03",
-		"testRandomHex" : "AlanCapewell 3/17/2015 16:11",
-		"testRulesSetCreation" : "AlanCapewell 5/4/2016 13:41",
-		"testSingleNumber" : "AlanCapewell 3/13/2015 15:35" } }
+		"testDecode" : "AlanCapewell 5/5/2016 16:14",
+		"testEncodeDecode" : "AlanCapewell 5/5/2016 16:14",
+		"testHex" : "AlanCapewell 5/5/2016 16:14",
+		"testMultiNumber" : "AlanCapewell 5/5/2016 16:14",
+		"testPadding" : "AlanCapewell 5/5/2016 16:14",
+		"testRandom" : "AlanCapewell 5/5/2016 16:14",
+		"testRandomHex" : "AlanCapewell 5/5/2016 16:14",
+		"testRulesSetCreation" : "AlanCapewell 5/5/2016 16:14",
+		"testSingleNumber" : "AlanCapewell 5/5/2016 16:14" } }

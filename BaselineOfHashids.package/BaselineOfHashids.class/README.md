@@ -1,0 +1,1 @@
+A baseline for Hashidspackage read more at https://github.com/alacap/hashids-pharo

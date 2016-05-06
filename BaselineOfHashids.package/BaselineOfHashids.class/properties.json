@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfHashids",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AlanCapewell 5/6/2016 11:06",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfHashids",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

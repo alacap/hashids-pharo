@@ -1,7 +1,7 @@
-as yet unclassified
+tests
 testRandom
 	| hashidRuleSet random a b c d col |
-	hashidRuleSet := HashidRuleSet newSalt: '1234' minHashLength: 16.
+	hashidRuleSet := HidHasher newSalt: '1234' minHashLength: 16.
 	random := Random new.
 	2000
 		timesRepeat: [ 

@@ -1,7 +1,7 @@
-as yet unclassified
+tests
 testRandomHex
 	| hashidRuleSet random hexString result |
-	hashidRuleSet := HashidRuleSet newSalt: '1234' minHashLength: 16.
+	hashidRuleSet := HidHasher newSalt: '1234' minHashLength: 16.
 	random := Random new.
 	2000
 		timesRepeat: [ 
