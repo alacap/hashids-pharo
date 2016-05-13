@@ -1,1 +1,0 @@
-I am the superclass of the HashidEncoder and HashidDecoder
