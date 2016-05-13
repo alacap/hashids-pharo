@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testDecode" : "AlanCapewell 5/5/2016 16:14",
+		"testEncodeDecode" : "AlanCapewell 5/5/2016 16:14",
+		"testHex" : "AlanCapewell 5/5/2016 16:14",
+		"testMultiNumber" : "AlanCapewell 5/5/2016 16:14",
+		"testPadding" : "AlanCapewell 5/5/2016 16:14",
+		"testRandom" : "AlanCapewell 5/5/2016 16:14",
+		"testRandomHex" : "AlanCapewell 5/5/2016 16:14",
+		"testRulesSetCreation" : "AlanCapewell 5/5/2016 16:14",
+		"testSingleNumber" : "AlanCapewell 5/5/2016 16:14" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Hashids",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AlanCapewell 5/5/2016 16:23",
+	"instvars" : [
+		 ],
+	"name" : "HidDecoder",
+	"pools" : [
+		 ],
+	"super" : "HidHashFunction",
+	"type" : "normal" }
