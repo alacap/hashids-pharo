@@ -24,6 +24,16 @@ You don't have to store these hashes in the database, but can encode + decode on
 
 All integers need to be greater than or equal to zero.
 
+## Installing
+To install open a playground or workspace and run...
+
+```smalltalk
+Metacello new
+  baseline: #Hashids;
+  repository: 'github://alacap/hashids-pharo:v1.0.1';
+  load
+```
+
 ## Usage
 
 ### Encoding one number
@@ -37,7 +47,7 @@ hasher := HidHasher newSalt: 'this is my salt'.
 hasher encode: 12345 
 ```
 
-`hash` is now going to be:
+The hash is now going to be:
 
     NkK9
 
@@ -67,7 +77,7 @@ hasher encode: #(683 94108 123 5)
 hash = hashids.encode(683, 94108, 123, 5)
 ```
 
-`hash` is now going to be:
+The hash is now going to be:
 
     'aBMswoO2UB3Sj'
 
@@ -79,7 +89,7 @@ hasher := HidHasher newSalt: 'this is my salt'.
 hasher decode: 'aBMswoO2UB3Sj')
 ```
 
-`numbers` is now going to be:
+The result is now going to be:
 
     an OrderedCollection(683 94108 123 5)
 
@@ -100,7 +110,7 @@ hasher := HidHasher newSalt: 'this is my salt' minHashLength: 8.
 hasher encode: 1 
 ```
 
-`hash` is now going to be:
+The hash is now going to be:
 
     gB0NV05e
 
@@ -131,7 +141,7 @@ hasher := HidHasher newSalt: 'this is my salt' minHashLength: 8 alphabet: 'abcde
 hasher encode: #(1 2 3 4 5) 
 ```
 
-`hash` is now going to be:
+The hash is now going to be:
 
     EdHauDhat3
 
@@ -160,7 +170,7 @@ hasher := HidHasher newSalt: 'this is my salt'.
 hasher encode: #(1 2 3 4 5 6 7 8 9 10) 
 ```
 
-`hash` is now going to be:
+The hash is now going to be:
 
     'kRHnurhptKcjIDTWC3sx'
 
@@ -199,7 +209,7 @@ hasher encodeHex: 'DEADBEEF'
 
 ```
 
-`hash` is now going to be:
+The hash is now going to be:
 
     zEMBllj
 
