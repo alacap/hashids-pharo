@@ -1,4 +1,4 @@
-as yet unclassified
+default
 defaultSeparators
 "self defaultSeparators"
 ^'cfhistuCFHISTU'

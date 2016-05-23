@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"displayHash:withValue:" : "AlanCapewell 5/22/2016 16:49",
+		"displayValue:withHash:" : "AlanCapewell 5/22/2016 16:49",
+		"exampleDecoding" : "AlanCapewell 5/22/2016 16:50",
+		"exampleDifferentLengths" : "AlanCapewell 5/22/2016 16:37",
+		"exampleDifferentSalts" : "AlanCapewell 5/22/2016 16:27",
+		"exampleEncodeCollection" : "AlanCapewell 5/22/2016 17:01",
+		"exampleEncodeHex" : "AlanCapewell 5/22/2016 16:54",
+		"exampleForceCollection" : "AlanCapewell 5/22/2016 17:01",
+		"exampleIncrements" : "AlanCapewell 5/22/2016 16:41",
+		"exampleSimpleEncode" : "AlanCapewell 5/22/2016 10:02" },
+	"instance" : {
+		 } }

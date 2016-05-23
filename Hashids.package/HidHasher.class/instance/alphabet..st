@@ -1,4 +1,3 @@
 accessing
-alphabet: anObject
-	
+alphabet: anObject	
 	alphabet := anObject

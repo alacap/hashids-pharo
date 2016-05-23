@@ -1,3 +1,3 @@
-as yet unclassified
+default
 defaultAlphabet
 ^'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'

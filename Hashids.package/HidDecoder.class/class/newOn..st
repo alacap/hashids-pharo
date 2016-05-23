@@ -1,4 +1,4 @@
-as yet unclassified
+instance-creation
 newOn: aHasher
 	^ self basicNew
 		hasher: aHasher;

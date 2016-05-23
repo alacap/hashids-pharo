@@ -1,6 +1,5 @@
 accessing
 initialize
-	
 	alphabet := alphabet copyWithoutAll:  separators.
 	self shuffleSeparators.
 	self shuffleAlphabet.

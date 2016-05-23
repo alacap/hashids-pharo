@@ -1,7 +1,6 @@
 as yet unclassified
 extractHashedString: aString
 	"remove padding before and after the hashed string"
-
 	|tokens| 
 	tokens:= aString findTokens: hasher guards.
 	tokens size > 1 

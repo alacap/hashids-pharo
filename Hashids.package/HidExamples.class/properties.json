@@ -4,12 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "AlanCapewell 5/22/2016 17:03",
+	"commentStamp" : "AlanCapewell 5/22/2016 16:34",
 	"instvars" : [
-		"salt",
-		"asciiValAccumulator",
-		"index" ],
-	"name" : "HidSaltShuffler",
+		 ],
+	"name" : "HidExamples",
 	"pools" : [
 		 ],
 	"super" : "Object",

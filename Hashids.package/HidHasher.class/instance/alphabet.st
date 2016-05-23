@@ -1,4 +1,3 @@
 accessing
-alphabet
-	
+alphabet	
 	^ alphabet
