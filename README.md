@@ -25,12 +25,14 @@ You don't have to store these hashes in the database, but can encode + decode on
 All integers need to be greater than or equal to zero.
 
 ## Installing
-To install open a playground or workspace and run...
+The easiest way to install in Pharo is to open the Spotter and type Hashids and click the green tick mark next to the entry in Catalog Projects.
+
+Alternatively you can open a playground or workspace and run...
 
 ```smalltalk
 Metacello new
   baseline: #Hashids;
-  repository: 'github://alacap/hashids-pharo:v1.0.1';
+  repository: 'github://alacap/hashids-pharo:v1.0.2';
   load
 ```
 
